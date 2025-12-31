@@ -64,11 +64,7 @@ If this project:
 Your support enables **open-source security simulations** and **accessible cybersecurity education** globally.
 
 ---
-
-## 📁 Project Files  
-- `MoHESR_Dashboard.pbix`  
-- `Data_Model_Documentation.pdf`  
-- `Simulation_Scenario.docx`  
+#sHUKRAN  
 
 **🏫 Context**: MIST 301 – Intro to Business Information Systems  
 **🎓 University**: American University of Ras Al Khaimah  
