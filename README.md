@@ -16,6 +16,7 @@ This Power BI dashboard is a **simulated executive dashboard** designed for univ
 - **Risk Matrix Integration** – Performance, Contextual & Trigger risk alerts  
 - **Dynamic Filtering** – Drill-down by Faculty, Department, Academic Year  
 - **Executive Summary View** – Institutional health at a glance  
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d4e7f11-3d11-4631-8f17-6164f94e7202" />
 
 ---
 
