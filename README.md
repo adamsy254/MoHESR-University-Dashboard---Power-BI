@@ -59,7 +59,7 @@ If this project:
 **📞 Contact:**  
 - **WhatsApp**: [+254702896107](https://wa.me/254702896107)  
 - **Email**: adamsmuema19@gmail.com  
-- **PayPal Support**: [Donate Here](https://www.paypal.com/donate/?hosted_button_id=UW2NDM92AU67U)  
+- **PayPal Support**: [BUY ME COFFEE Here](https://www.paypal.com/donate/?hosted_button_id=UW2NDM92AU67U)  
 
 Your support enables **open-source security simulations** and **accessible cybersecurity education** globally.
 
